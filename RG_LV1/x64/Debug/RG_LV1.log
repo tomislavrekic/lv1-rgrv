@@ -1,0 +1,9 @@
+﻿  Body.cpp
+  Display.cpp
+  RG_LV1.cpp
+  stdafx.cpp
+  Generating Code...
+c:\users\rekca\desktop\lv1\rg_lv1\rg_lv1.cpp(43): warning C4172: returning address of local variable or temporary: Tnew
+c:\users\rekca\desktop\lv1\rg_lv1\rg_lv1.cpp(56): warning C4172: returning address of local variable or temporary: Tnew
+c:\users\rekca\desktop\lv1\rg_lv1\rg_lv1.cpp(69): warning C4172: returning address of local variable or temporary: Tnew
+  RG_LV1.vcxproj -> C:\Users\Rekca\Desktop\LV1\x64\Debug\RG_LV1.exe
